@@ -12,6 +12,7 @@ A simple, user-friendly to-do list application to help you stay organized and ke
 </ul>
 
 <h4>Usage</h4>
+
 1. Add a task: Type the task description in the input field and press the "Add" button.
 2. Mark as completed: Click on the checkbox next to the task to mark it as completed.
 3. Delete a task: Click the delete icon to remove the task from the list.
