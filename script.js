@@ -1,7 +1,8 @@
 const inputBox = document.getElementById("input-box")
 const listContainer = document.getElementById("list-container")
+const addButton = document.getElementById("addButton")
 
-function addTask() {
+addButton.addEventListener('click', function addTask() {
     if (inputBox.value === '') {
         alert("You must write something")
     }
@@ -16,7 +17,8 @@ function addTask() {
     }
     inputBox.value = '';
     saveData();
-}
+})
+
 
 listContainer.addEventListener("click", function (e) {
     if (e.target.tagName === "LI") {
