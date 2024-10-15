@@ -28,4 +28,7 @@ We welcome contributions! If you’d like to improve this project, please follow
 
 <h3>Screenshots</h3>
 
+![Screenshot 2024-10-15 200728](https://github.com/user-attachments/assets/792a21b1-37b8-4997-9df5-eac36230939b)
+
+![Screenshot 2024-10-15 200755](https://github.com/user-attachments/assets/3cee6c7a-d91b-4042-94bb-78543ad357cb)
 
