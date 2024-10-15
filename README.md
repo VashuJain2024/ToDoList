@@ -2,7 +2,7 @@
 
 A simple, user-friendly to-do list application to help you stay organized and keep track of your tasks. This app allows users to add, update, and delete tasks with ease.
 
-<h4>Features</h4>
+<h3>Features</h3>
 <ul>
 <li>Add new tasks</li>
 <li>Mark tasks as completed</li>
@@ -11,13 +11,13 @@ A simple, user-friendly to-do list application to help you stay organized and ke
 <li>Save tasks locally</li>
 </ul>
 
-<h4>Usage</h4>
+<h3>Usage</h3>
 
 1. Add a task: Type the task description in the input field and press the "Add" button.
 2. Mark as completed: Click on the checkbox next to the task to mark it as completed.
 3. Delete a task: Click the delete icon to remove the task from the list.
 
-<h4>Contributing</h4>
+<h3>Contributing</h3>
 We welcome contributions! If you’d like to improve this project, please follow these steps:
 
 1. Fork the repository.
