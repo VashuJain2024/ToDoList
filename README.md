@@ -25,3 +25,7 @@ We welcome contributions! If you’d like to improve this project, please follow
 3. Make your changes and commit them (git commit -m 'Add new feature').
 4. Push to the branch (git push origin feature-branch).
 5. Open a pull request and describe the changes.
+
+<h3>Screenshots</h3>
+
+
