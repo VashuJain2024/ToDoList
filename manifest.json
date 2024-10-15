@@ -8,8 +8,8 @@
   },
 
   "page_action": {
-    "default_width": 600,
-    "default_height": 600
+    "default_width": 100,
+    "default_height": 100
   },
 
   "content_scripts": [

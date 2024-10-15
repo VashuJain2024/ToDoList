@@ -6,17 +6,16 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-html,
+/* html,
 body {
     width: 100%;
     height: 100%;
-}
+} */
 
 .container {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #C8C8a9, #F9Cdad);
-    ;
+    background: linear-gradient(135deg, #CBCBA9, #F9CDAD);
     padding: 10px;
     /* border: 2px solid red; */
 }
@@ -25,7 +24,7 @@ body {
     width: 100%;
     max-width: 540px;
     background: white;
-    margin: 100px auto 20px;
+    margin: auto;
     padding: 40px 30px 70px;
     /* border: 2px solid red; */
     border-radius: 10px;
