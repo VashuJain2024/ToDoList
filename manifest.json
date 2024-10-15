@@ -1,10 +1,20 @@
 {
   "manifest_version": 3,
-  "name": "To-Do List App",
+  "name": "To Do List App",
   "version": "1.0.0",
+
+  "action": {
+    "default_popup": "index.html"
+  },
+
+  "page_action": {
+    "default_width": 600,
+    "default_height": 600
+  },
+
   "content_scripts": [
     {
-      "matches": ["http://127.0.0.1:5500/*"],
+      "matches": ["https://vashujain2024.github.io/ToDoList/"],
       "js": ["script.js"]
     }
   ]
